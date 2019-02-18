@@ -42,7 +42,7 @@
        android:layout_width="wrap_content"
             android:id="@+id/id3"
         android:layout_height="wrap_content"
-        android:text="Delete"
+        android:text="Remove"
         />
    </RelativeLayout>
         </LinearLayout>
@@ -55,7 +55,7 @@
             android:id="@+id/id4"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Display"
+            android:text="View"
            />
 
     </LinearLayout>
